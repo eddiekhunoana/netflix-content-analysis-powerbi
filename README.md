@@ -1,7 +1,19 @@
 
 Netflix Content Analysis & Interactive Power BI Dashboard
-Project Overview
 
+Dashboard Preview
+
+Main Dashboard
+
+![Netflix Dashboard Main](netflix-dashboard-main.png)
+
+ Detailed Dashboard
+
+![Netflix Dashboard Detail](netflix-dashboard-detail.png)
+
+
+
+Project Overview 
 This project analyses Netflix's content catalogue using Microsoft Excel and Power BI. The goal was to transform raw Netflix data into an interactive dashboard that provides meaningful insights into content distribution, genres, ratings, countries and release-year trends.
 
 The project demonstrates practical skills in data cleaning, data transformation, data visualisation and business intelligence.
@@ -82,5 +94,8 @@ Author
 Eddie Khunoana
 
 BCom Accounting & Information Systems | Rhodes University
+
+
+
 
 
